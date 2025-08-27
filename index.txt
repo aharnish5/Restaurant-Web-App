@@ -1,28 +1,49 @@
+<<<<<<< HEAD
 Spice Garden - Amazing & Delicious Indian Food
 
 This is a Restaurant html template made by Aharnish Dubey
+=======
+Grilli - Amazing & Delicious Food
+
+This is a Restaurant html template made by codewithsadee
+>>>>>>> a73f2b1e8d3d576cf34fb8161d8a4e69d8dce3e9
 
 
 
 #---------- TOP BAR ----------#
 
 <ion-icon name="location-outline" aria-hidden="true"></ion-icon>
+<<<<<<< HEAD
 Spice Garden Lane, Colaba, Mumbai 400001, India
+=======
+Restaurant St, Delicious City, London 9578, UK
+>>>>>>> a73f2b1e8d3d576cf34fb8161d8a4e69d8dce3e9
 
 <ion-icon name="time-outline" aria-hidden="true"></ion-icon>
 Daily : 8.00 am to 10.00 pm
 
 <ion-icon name="call-outline" aria-hidden="true"></ion-icon>
+<<<<<<< HEAD
 +91 98765 43210
 
 <ion-icon name="mail-outline" aria-hidden="true"></ion-icon>
 booking@spicegarden.com
+=======
++1 123 456 7890
+
+<ion-icon name="mail-outline" aria-hidden="true"></ion-icon>
+booking@restaurant.com
+>>>>>>> a73f2b1e8d3d576cf34fb8161d8a4e69d8dce3e9
 
 
 
 #---------- HEADER ----------#
 
+<<<<<<< HEAD
 alt = Spice Garden - Home
+=======
+alt = Grilli - Home
+>>>>>>> a73f2b1e8d3d576cf34fb8161d8a4e69d8dce3e9
 
 aria-label = close menu
 <ion-icon name="close-outline" aria-hidden="true"></ion-icon>
@@ -35,6 +56,7 @@ Contact
 
 Visit Us
 
+<<<<<<< HEAD
 Spice Garden Lane, Colaba,
 Mumbai 400001, India
 
@@ -44,6 +66,17 @@ booking@spicegarden.com
 
 Booking Request
 +91-98765-43210
+=======
+Restaurant St, Delicious City,
+London 9578, UK
+
+Open: 9.30 am - 2.30pm
+
+booking@grilli.com
+
+Booking Request
++88-123-123456
+>>>>>>> a73f2b1e8d3d576cf34fb8161d8a4e69d8dce3e9
 
 Find A Table
 
@@ -53,24 +86,41 @@ aria-label = open menu
 
 #---------- HERO ----------#
 
+<<<<<<< HEAD
 Traditional & Hygienic
 
 For the love of
 authentic Indian food
 
 Come with family & feel the joy of mouthwatering Indian delicacies
+=======
+Tradational & Hygine
+
+For the love of
+delicious food
+
+Come with family & feel the joy of mouthwatering food
+>>>>>>> a73f2b1e8d3d576cf34fb8161d8a4e69d8dce3e9
 
 View Our Menu
 
 delightful experience
 
 Flavors Inspired by
+<<<<<<< HEAD
 Indian Spices
+=======
+the Seasons
+>>>>>>> a73f2b1e8d3d576cf34fb8161d8a4e69d8dce3e9
 
 amazing & delicious
 
 Where every flavor
+<<<<<<< HEAD
 tells an Indian story
+=======
+tells a story
+>>>>>>> a73f2b1e8d3d576cf34fb8161d8a4e69d8dce3e9
 
 aria-label = slide to previous
 <ion-icon name="chevron-back"></ion-icon>
@@ -88,6 +138,7 @@ Book A Table
 
 Flavors For Royalty
 
+<<<<<<< HEAD
 We Offer Authentic Indian Cuisine
 
 Experience the rich flavors and aromas of traditional Indian cooking, passed down through generations of skilled chefs.
@@ -100,6 +151,20 @@ View Menu
 South Indian
 
 Mughlai
+=======
+We Offer Top Notch
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry lorem Ipsum has been the industrys standard dummy text ever.
+
+alt = Breakfast
+
+Breakfast
+View Menu
+
+Appetizers
+
+Drinks
+>>>>>>> a73f2b1e8d3d576cf34fb8161d8a4e69d8dce3e9
 
 alt = shape
 
@@ -109,6 +174,7 @@ alt = shape
 
 Our Story
 
+<<<<<<< HEAD
 Every Flavor Tells an Indian Story
 
 Spice Garden brings you the authentic taste of India, where every dish is prepared with love and traditional recipes. Our chefs use the finest spices and ingredients to create memorable dining experiences that transport you to the heart of India.
@@ -116,6 +182,15 @@ Spice Garden brings you the authentic taste of India, where every dish is prepar
 Book Through Call
 
 +91 98765 43210
+=======
+Every Fla vor Tells a Story
+
+Lorem Ipsum is simply dummy text of the printingand typesetting industry lorem Ipsum has been the industrys standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make a type specimen book It has survived not only five centuries, but also the leap into.
+
+Book Through Call
+
++80 (400) 123 4567
+>>>>>>> a73f2b1e8d3d576cf34fb8161d8a4e69d8dce3e9
 
 Read More
 
@@ -131,12 +206,21 @@ alt = badge
 
 Special Dish
 
+<<<<<<< HEAD
 Butter Chicken
 
 Our signature Butter Chicken, prepared with tender chicken pieces in a rich, creamy tomato-based gravy. A perfect blend of spices and authentic Indian flavors that will leave you craving for more.
 
 ₹800
 ₹600
+=======
+Lobster Tortellini
+
+Lorem Ipsum is simply dummy text of the printingand typesetting industry lorem Ipsum has been the industrys standard dummy text ever since the when an unknown printer took a galley of type.
+
+$40.00
+$20.00
+>>>>>>> a73f2b1e8d3d576cf34fb8161d8a4e69d8dce3e9
 
 View All Menu
 
@@ -149,6 +233,7 @@ Special Selection
 Delicious Menu
 
 1.
+<<<<<<< HEAD
 alt = Paneer Tikka
 Paneer Tikka
 
@@ -191,6 +276,50 @@ Fish Curry
 
 ₹400
 Fresh fish cooked in aromatic spices and coconut milk, a coastal delight.
+=======
+alt = Greek Salad
+Greek Salad
+
+Seasonal
+$25.50
+Tomatoes, green bell pepper, sliced cucumber onion, olives, and feta cheese.
+
+2.
+alt = Lasagne
+Lasagne
+
+$40.00
+Vegetables, cheeses, ground meats, tomato sauce, seasonings and spices
+
+3.
+alt = Butternut Pumpkin
+Butternut Pumpkin
+
+$10.00
+Typesetting industry lorem Lorem Ipsum is simply dummy text of the priand.
+
+4.
+alt = Tokusen Wagyu
+Tokusen Wagyu
+
+New
+$39.00
+Vegetables, cheeses, ground meats, tomato sauce, seasonings and spices.
+
+5.
+alt = Olivas Rellenas
+Olivas Rellenas
+
+$25.00
+Avocados with crab meat, red onion, crab salad stuffed red bell pepper and green bell pepper.
+
+6.
+alt = Opu Fish
+Opu Fish
+
+$49.00
+Vegetables, cheeses, ground meats, tomato sauce, seasonings and spices
+>>>>>>> a73f2b1e8d3d576cf34fb8161d8a4e69d8dce3e9
 
 During winter daily from 7:00 pm to 9:00 pm
 
@@ -201,10 +330,17 @@ View All Menu
 #---------- TESTIMONIALS ----------#
 
 ”
+<<<<<<< HEAD
 I wanted to thank you for inviting me down for that amazing Indian dinner the other night. The flavors were extraordinary and authentic.
 
 alt = Priya Sharma
 Priya Sharma
+=======
+I wanted to thank you for inviting me down for that amazing dinner the other night. The food was extraordinary.
+
+alt = Sam Jhonson
+Sam Jhonson
+>>>>>>> a73f2b1e8d3d576cf34fb8161d8a4e69d8dce3e9
 
 
 
@@ -213,7 +349,11 @@ Priya Sharma
 Online Reservation
 
 Booking request
+<<<<<<< HEAD
 +91-98765-43210
+=======
++88-123-123456
+>>>>>>> a73f2b1e8d3d576cf34fb8161d8a4e69d8dce3e9
 or fill out the order form
 
 placeholder = Your Name
@@ -245,12 +385,21 @@ Contact Us
 
 Booking Request
 
+<<<<<<< HEAD
 +91-98765-43210
 
 Location
 
 Spice Garden Lane, Colaba,
 Mumbai 400001, India
+=======
++88-123-123456
+
+Location
+
+Restaurant St, Delicious City,
+London 9578, UK
+>>>>>>> a73f2b1e8d3d576cf34fb8161d8a4e69d8dce3e9
 
 Lunch Time
 
@@ -307,6 +456,7 @@ View Our Blog
 
 #---------- FOOTER ----------#
 
+<<<<<<< HEAD
 alt = spice garden home
 
 Spice Garden Lane, Colaba, Mumbai 400001, India
@@ -314,6 +464,15 @@ Spice Garden Lane, Colaba, Mumbai 400001, India
 booking@spicegarden.com
 
 Booking Request : +91-98765-43210
+=======
+alt = grilli home
+
+Restaurant St, Delicious City, London 9578, UK
+
+booking@grilli.com
+
+Booking Request : +88-123-123456
+>>>>>>> a73f2b1e8d3d576cf34fb8161d8a4e69d8dce3e9
 
 Open : 09:00 am - 01:00 pm
 
@@ -339,9 +498,17 @@ Twitter
 Youtube
 Google Map
 
+<<<<<<< HEAD
 &copy; 2024 Spice Garden. All Rights Reserved | Crafted by
 
 Aharnish Dubey
+=======
+&copy; 2022 Grilli. All Rights Reserved | Crafted by
+
+https://github.com/codewithsadee
+
+codewithsadee
+>>>>>>> a73f2b1e8d3d576cf34fb8161d8a4e69d8dce3e9
 
 
 
@@ -362,6 +529,7 @@ Our Menu
 Special Offer
 Best Special Menu
 
+<<<<<<< HEAD
 alt = Paneer Tikka
 Paneer Tikka
 Grilled cottage cheese marinated in aromatic spices, served with mint chutney...
@@ -401,17 +569,67 @@ alt = Fish Curry
 Fish Curry
 Fresh fish cooked in aromatic spices and coconut milk, a coastal delight...
 ₹400
+=======
+alt = Greek Salad
+Greek Salad
+Avocados with crab meat, red onion, crab salad red bell pepper...
+$39.00
+
+alt = Tokusen Wagyu
+Tokusen Wagyu
+Tomatoes, green bell pepper, sliced cucumber onion, olives...
+$45.00
+
+alt = Butternut Pumpkin
+Butternut Pumpkin
+Avocados with crab meat, red onion, crab salad stuffed bell pepper...
+$15.00
+
+alt = Opu Fish
+Opu Fish
+Vegetables, cheeses, ground meats, tomato sauce, seasonings...
+$12.00
+
+alt = Greek Salad
+Greek Salad
+Avocados with crab meat, red onion, crab salad red bell pepper...
+$39.00
+
+alt = Tokusen Wagyu
+Tokusen Wagyu
+Tomatoes, green bell pepper, sliced cucumber onion, olives...
+$45.00
+
+alt = Butternut Pumpkin
+Butternut Pumpkin
+Avocados with crab meat, red onion, crab salad stuffed bell pepper...
+$15.00
+
+alt = Opu Fish
+Opu Fish
+Vegetables, cheeses, ground meats, tomato sauce, seasonings...
+$12.00
+>>>>>>> a73f2b1e8d3d576cf34fb8161d8a4e69d8dce3e9
 
 
 alt = feature banner
 
 Chef Selection
+<<<<<<< HEAD
 Butter Chicken
 
 Our signature Butter Chicken, prepared with tender chicken pieces in a rich, creamy tomato-based gravy. A perfect blend of spices and authentic Indian flavors that will leave you craving for more.
 
 ₹800
 ₹600
+=======
+Lobster Tortellini
+
+Lorem Ipsum is simply dummy text of the printingand typesetting industry lorem Ipsum has been the industrys standard dummy text ever since.
+
+$40.00
+$20.00
+>>>>>>> a73f2b1e8d3d576cf34fb8161d8a4e69d8dce3e9
 
 
 
@@ -422,12 +640,21 @@ About Us
 
 Who We Are
 
+<<<<<<< HEAD
 A modern Indian restaurant with a menu that will make your mouth water. Servicing authentic Indian food 
 since 25 years.
 Enjoy our seasonal menu and experience the beauty of traditional Indian cooking
 Spice Garden brings you the authentic taste of India, where every dish is prepared with love and traditional recipes. Our chefs use the finest spices and ingredients to create memorable dining experiences.
 
 Aharnish Dubey - Founder
+=======
+A modern restaurant with a menu that will make your mouth water. Servicing delicious food 
+since 45 years.
+Enjoy our seasonal menu and experience the beauty of naturalness
+Lorem Ipsum is simply dummy text of the printingand typesetting industry lorem Ipsum has been the industrys standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make a type specimen book It has survived.
+
+Andrew Joe - Founder
+>>>>>>> a73f2b1e8d3d576cf34fb8161d8a4e69d8dce3e9
 
 Lunch Time
 Monday to Sunday
@@ -438,7 +665,14 @@ Monday to Sunday
 5.30 pm - 11.30 pm
 
 Contact Us
+<<<<<<< HEAD
 Spice Garden Lane, Colaba, Mumbai 400001, India
 
 +91-98765-43210
 reservation@spicegarden.com
+=======
+Restaurant St, Delicious City, London 9578, UK
+
++88-123-123456
+reservation@restro.com
+>>>>>>> a73f2b1e8d3d576cf34fb8161d8a4e69d8dce3e9
