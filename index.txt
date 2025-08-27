@@ -1,0 +1,444 @@
+Spice Garden - Amazing & Delicious Indian Food
+
+This is a Restaurant html template made by Aharnish Dubey
+
+
+
+#---------- TOP BAR ----------#
+
+<ion-icon name="location-outline" aria-hidden="true"></ion-icon>
+Spice Garden Lane, Colaba, Mumbai 400001, India
+
+<ion-icon name="time-outline" aria-hidden="true"></ion-icon>
+Daily : 8.00 am to 10.00 pm
+
+<ion-icon name="call-outline" aria-hidden="true"></ion-icon>
++91 98765 43210
+
+<ion-icon name="mail-outline" aria-hidden="true"></ion-icon>
+booking@spicegarden.com
+
+
+
+#---------- HEADER ----------#
+
+alt = Spice Garden - Home
+
+aria-label = close menu
+<ion-icon name="close-outline" aria-hidden="true"></ion-icon>
+
+Home
+Menus
+About Us
+Our Chefs
+Contact
+
+Visit Us
+
+Spice Garden Lane, Colaba,
+Mumbai 400001, India
+
+Open: 9.30 am - 2.30pm
+
+booking@spicegarden.com
+
+Booking Request
++91-98765-43210
+
+Find A Table
+
+aria-label = open menu
+
+
+
+#---------- HERO ----------#
+
+Traditional & Hygienic
+
+For the love of
+authentic Indian food
+
+Come with family & feel the joy of mouthwatering Indian delicacies
+
+View Our Menu
+
+delightful experience
+
+Flavors Inspired by
+Indian Spices
+
+amazing & delicious
+
+Where every flavor
+tells an Indian story
+
+aria-label = slide to previous
+<ion-icon name="chevron-back"></ion-icon>
+
+aria-label = slide to next
+<ion-icon name="chevron-forward"></ion-icon>
+
+alt = booking icon
+
+Book A Table
+
+
+
+#---------- SERVICE ----------#
+
+Flavors For Royalty
+
+We Offer Authentic Indian Cuisine
+
+Experience the rich flavors and aromas of traditional Indian cooking, passed down through generations of skilled chefs.
+
+alt = North Indian
+
+North Indian
+View Menu
+
+South Indian
+
+Mughlai
+
+alt = shape
+
+
+
+#---------- ABOUT ----------#
+
+Our Story
+
+Every Flavor Tells an Indian Story
+
+Spice Garden brings you the authentic taste of India, where every dish is prepared with love and traditional recipes. Our chefs use the finest spices and ingredients to create memorable dining experiences that transport you to the heart of India.
+
+Book Through Call
+
++91 98765 43210
+
+Read More
+
+alt = about banner
+
+
+
+#---------- SPECIAL DISH ----------#
+
+alt = special dish
+
+alt = badge
+
+Special Dish
+
+Butter Chicken
+
+Our signature Butter Chicken, prepared with tender chicken pieces in a rich, creamy tomato-based gravy. A perfect blend of spices and authentic Indian flavors that will leave you craving for more.
+
+₹800
+₹600
+
+View All Menu
+
+
+
+#---------- MANU ----------#
+
+Special Selection
+
+Delicious Menu
+
+1.
+alt = Paneer Tikka
+Paneer Tikka
+
+Popular
+₹350
+Grilled cottage cheese marinated in aromatic spices, served with mint chutney.
+
+2.
+alt = Biryani
+Chicken Biryani
+
+₹450
+Fragrant basmati rice cooked with tender chicken, aromatic spices, and herbs.
+
+3.
+alt = Dal Makhani
+Dal Makhani
+
+₹200
+Slow-cooked black lentils with cream and butter, a rich and comforting dish.
+
+4.
+alt = Rogan Josh
+Rogan Josh
+
+Chef's Special
+₹550
+Tender lamb cooked in aromatic Kashmiri spices, yogurt, and herbs.
+
+5.
+alt = Malai Kofta
+Malai Kofta
+
+₹300
+Soft vegetable dumplings in rich, creamy gravy, a vegetarian delight.
+
+6.
+alt = Fish Curry
+Fish Curry
+
+₹400
+Fresh fish cooked in aromatic spices and coconut milk, a coastal delight.
+
+During winter daily from 7:00 pm to 9:00 pm
+
+View All Menu
+
+
+
+#---------- TESTIMONIALS ----------#
+
+”
+I wanted to thank you for inviting me down for that amazing Indian dinner the other night. The flavors were extraordinary and authentic.
+
+alt = Priya Sharma
+Priya Sharma
+
+
+
+#---------- RESERVATION ----------#
+
+Online Reservation
+
+Booking request
++91-98765-43210
+or fill out the order form
+
+placeholder = Your Name
+placeholder = Phone Number
+
+<ion-icon name="person-outline" aria-hidden="true"></ion-icon>
+
+1 Person
+2 Person
+3 Person
+4 Person
+5 Person
+6 Person
+7 Person
+
+<ion-icon name="chevron-down" aria-hidden="true"></ion-icon>
+
+<ion-icon name="calendar-clear-outline" aria-hidden="true"></ion-icon>
+
+<ion-icon name="time-outline" aria-hidden="true"></ion-icon>
+08 : 00 am
+<ion-icon name="chevron-down" aria-hidden="true"></ion-icon>
+
+placeholder = Message
+
+Book A Table
+
+Contact Us
+
+Booking Request
+
++91-98765-43210
+
+Location
+
+Spice Garden Lane, Colaba,
+Mumbai 400001, India
+
+Lunch Time
+
+Monday to Sunday
+11.00 am - 2.30pm
+
+Dinner Time
+
+Monday to Sunday
+05.00 pm - 10.00pm
+
+
+
+#---------- FEATURES ----------#
+
+Why Choose Us
+
+Our Strength
+
+alt = icon
+
+Hygienic Food
+Lorem Ipsum is simply dummy printing and typesetting.
+
+Fresh Environment
+
+Skilled Chefs
+
+Event & Party
+
+
+
+#---------- EVENT ----------#
+
+Recent Updates
+
+Upcoming Event
+
+alt = Flavour so good you’ll try to eat with your eyes.
+
+15/09/2022
+Food, Flavour
+Flavour so good you’ll try to eat with your eyes.
+
+08/09/2022
+Healthy Food
+
+03/09/2022
+Recipie
+
+View Our Blog
+
+
+
+#---------- FOOTER ----------#
+
+alt = spice garden home
+
+Spice Garden Lane, Colaba, Mumbai 400001, India
+
+booking@spicegarden.com
+
+Booking Request : +91-98765-43210
+
+Open : 09:00 am - 01:00 pm
+
+Get News & Offers
+
+Subscribe us & Get 25% Off.
+
+<ion-icon name="mail-outline" aria-hidden="true"></ion-icon>
+
+placeholder = Your email
+
+Subscribe
+
+Home
+Menus
+About Us
+Our Chefs
+Contact
+
+Facebook
+Instagram
+Twitter
+Youtube
+Google Map
+
+&copy; 2024 Spice Garden. All Rights Reserved | Crafted by
+
+Aharnish Dubey
+
+
+
+#---------- BACK TO TOP ----------#
+
+aria-label = back to top
+
+<ion-icon name="chevron-up" aria-hidden="true"></ion-icon>
+
+
+
+#---------- MENU PAGE ----------#
+
+
+Delicious & Amazing
+Our Menu
+
+Special Offer
+Best Special Menu
+
+alt = Paneer Tikka
+Paneer Tikka
+Grilled cottage cheese marinated in aromatic spices, served with mint chutney...
+₹350
+
+alt = Rogan Josh
+Rogan Josh
+Tender lamb cooked in aromatic Kashmiri spices, yogurt, and herbs...
+₹550
+
+alt = Dal Makhani
+Dal Makhani
+Slow-cooked black lentils with cream and butter, a rich and comforting dish...
+₹200
+
+alt = Fish Curry
+Fish Curry
+Fresh fish cooked in aromatic spices and coconut milk, a coastal delight...
+₹400
+
+alt = Paneer Tikka
+Paneer Tikka
+Grilled cottage cheese marinated in aromatic spices, served with mint chutney...
+₹350
+
+alt = Rogan Josh
+Rogan Josh
+Tender lamb cooked in aromatic Kashmiri spices, yogurt, and herbs...
+₹550
+
+alt = Dal Makhani
+Dal Makhani
+Slow-cooked black lentils with cream and butter, a rich and comforting dish...
+₹200
+
+alt = Fish Curry
+Fish Curry
+Fresh fish cooked in aromatic spices and coconut milk, a coastal delight...
+₹400
+
+
+alt = feature banner
+
+Chef Selection
+Butter Chicken
+
+Our signature Butter Chicken, prepared with tender chicken pieces in a rich, creamy tomato-based gravy. A perfect blend of spices and authentic Indian flavors that will leave you craving for more.
+
+₹800
+₹600
+
+
+
+#---------- MENU PAGE ----------#
+
+Our Story
+About Us
+
+Who We Are
+
+A modern Indian restaurant with a menu that will make your mouth water. Servicing authentic Indian food 
+since 25 years.
+Enjoy our seasonal menu and experience the beauty of traditional Indian cooking
+Spice Garden brings you the authentic taste of India, where every dish is prepared with love and traditional recipes. Our chefs use the finest spices and ingredients to create memorable dining experiences.
+
+Aharnish Dubey - Founder
+
+Lunch Time
+Monday to Sunday
+11.00 am - 2.30pm
+
+Dinner Time
+Monday to Sunday
+5.30 pm - 11.30 pm
+
+Contact Us
+Spice Garden Lane, Colaba, Mumbai 400001, India
+
++91-98765-43210
+reservation@spicegarden.com
