@@ -59,14 +59,12 @@ Restaurant-Web-App-main/
 ---
 
 ## 🎥 Demo Video
-👉 *(Add your demo video link here — YouTube, Loom, or hosted file)*  
 
 ![Watch the video](readme-images/video.gif)
 
 ---
 
 ## 🖼️ Screenshots
-*(Add screenshots of your app here in Markdown format)*
 
 | Home Page | Menu Page | Reservation |
 |-----------|-----------|-------------|
